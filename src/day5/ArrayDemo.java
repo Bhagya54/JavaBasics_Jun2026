@@ -51,7 +51,10 @@ public class ArrayDemo {
 			System.out.println(grades[i]);
 		}
 		
-		
+		System.out.println("Using Enhanced for loop");
+		for(int a:arr2) {
+			System.out.println(a);
+		}
 		
 	}
 
